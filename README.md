@@ -23,7 +23,8 @@ Jsem student třetího ročníku na Fakultě Informačních Technologií VUT v B
 - **Databáze**: MySQL, SQLite
 - **Operační systémy**: Linux, Windows
 
-## Ukázky mých projektů (Ostatní projekty vypracované v rámci studia lze nalézt v repozitáři [VUT](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/5.semestr/IMP))
+## Ukázky mých projektů 
+(statní projekty vypracované v rámci studia lze nalézt v repozitáři [VUT](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/5.semestr/IMP))
 
 ### 🧍‍♂️ Samostatné projekty
 
