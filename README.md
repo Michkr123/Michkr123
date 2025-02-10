@@ -24,7 +24,7 @@ Jsem student třetího ročníku na Fakultě Informačních Technologií VUT v B
 - **Operační systémy**: Linux, Windows
 
 ## Ukázky mých projektů 
-(statní projekty vypracované v rámci studia lze nalézt v repozitáři [VUT](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/5.semestr/IMP))
+(statní projekty vypracované v rámci studia lze nalézt v repozitáři [VUT](https://github.com/Michkr123/VUT))
 
 ### 🧍‍♂️ Samostatné projekty
 
