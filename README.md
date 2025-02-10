@@ -23,12 +23,13 @@ Jsem student třetího ročníku na Fakultě Informačních Technologií VUT v B
 - **Databáze**: MySQL, SQLite
 - **Operační systémy**: Linux, Windows
 
+## Ukázky mých projektů (Ostatní projekty vypracované v rámci studia lze nalézt v repozitáři [VUT](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/5.semestr/IMP))
+
 ### 🧍‍♂️ Samostatné projekty
 
-1. **Aplikace ovládaná dvojicí rotačních enkodérů na ESP32 - hra Pong**
+1. [**Aplikace ovládaná dvojicí rotačních enkodérů na ESP32 - hra Pong**](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/5.semestr/IMP) 
    - Popis: Hra pong ovládaná dvojicí enkodérů na mikrořadiči ESP32 využívající technologie přerušení, real-time operačního systém FreeRTOS a přístup ke sdílenému zdroji pomocí semaforu.
    - Jazyk: C
-   - [Odkaz na repositář](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/5.semestr/IMP) 
 
 2. **Procesor s jednoduchou instrukční sadou**
    - Popis: Procesor implementovaný v jazyce VHDL, který je schopen vykonávat program napsaný v rozšířené verzi jazyka BrainFuck.
