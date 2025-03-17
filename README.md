@@ -18,7 +18,7 @@ Jsem student třetího ročníku na Fakultě Informačních Technologií VUT v B
 
 ### 🛠️ Dovednosti
 
-- **Programovací a jiné jazyky**: C, JavaScript, Typescipt, C++, C#, Python, VHDL, PHP, HTML, CSS
+- **Programovací a jiné jazyky**: C, JavaScript, Typescipt, C++, C#, Python, PHP, HTML, CSS, VHDL
 - **Technologie a nástroje**: Git, GitHub, VS Code, React, Tailwind
 - **Databáze**: MySQL, SQLite
 - **Operační systémy**: Linux, Windows
