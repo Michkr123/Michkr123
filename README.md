@@ -24,9 +24,13 @@ Jsem student třetího ročníku na Fakultě Informačních Technologií VUT v B
 - **Operační systémy**: Linux, Windows
 
 ## Ukázky mých projektů 
-(statní projekty vypracované v rámci studia lze nalézt v repozitáři [VUT](https://github.com/Michkr123/VUT))
+(ostatní projekty vypracované v rámci studia lze nalézt v repozitáři [VUT](https://github.com/Michkr123/VUT))
 
 ### 🧍‍♂️ Samostatné projekty
+
+[**ICS MUNI Screening – GitHub Issues Visualizer (Vite + React + Express + Python)**](https://github.com/Michkr123/MUNI-screening#)
+   - Popis: Projekt slouží ke stažení GitHub issues a jejich vizualizaci. Issues jsou nejprve získány pomocí Python skriptu a uloženy do statického JSON souboru. Backendová část je tvořena jednoduchým REST API v Express.js, které poskytuje data frontendové React aplikaci. Frontend je postavený jako single-page aplikace (SPA) ve Vite a Reactu.
+   - Jazyky a technologie: Vite, React, JavaScript, TypeScript (frontend), Python (pro získání dat), Express.js (REST API backend)
 
 [**Aplikace ovládaná dvojicí rotačních enkodérů na ESP32 - hra Pong**](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/5.semestr/IMP) 
    - Popis: Hra pong ovládaná dvojicí enkodérů na mikrořadiči ESP32 využívající technologie přerušení, real-time operačního systém FreeRTOS a přístup ke sdílenému zdroji pomocí semaforu.
