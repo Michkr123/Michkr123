@@ -36,6 +36,10 @@ Jsem student třetího ročníku na Fakultě Informačních Technologií VUT v B
    - Popis: Hra pong ovládaná dvojicí enkodérů na mikrořadiči ESP32 využívající technologie přerušení, real-time operačního systém FreeRTOS a přístup ke sdílenému zdroji pomocí semaforu.
    - Jazyk: C
 
+[**Klient pro chatvací server**](https://github.com/Michkr123/IPK/tree/7294367d03752d0f9853228cd36f09457ae5cc0e/IPK_project2)
+   - Popis: Tento projekt implementuje klienta pro chatovací server, který používá protokol IPK25CHAT. Klient podporuje dvě varianty komunikace - pomocí protokolů TCP a UDP.
+   - Jazyk: C++
+
 [**Procesor s jednoduchou instrukční sadou**](https://github.com/Michkr123/VUT/tree/4368f73f0d323704da991ebc2031cae958bf21ec/3.semestr/INP/INP_1)
    - Popis: Procesor implementovaný v jazyce VHDL, který je schopen vykonávat program napsaný v rozšířené verzi jazyka BrainFuck.
    - Jazyk: VHDL
