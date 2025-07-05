@@ -2,11 +2,11 @@
 
 ## O mně
 
-Jsem student třetího ročníku na Fakultě Informačních Technologií VUT v Brně. Mám zálibu v programování (nečekaně), nových technologiích a ve zvedání těžkých koleček v posilovně 😉. V současné době bych chtěl získat praxi v oboru a zlepšovat se v tom co mě baví, zároveň v tomto roce pracuji na své bakalářské práci a připravuji se na státnice.
+Absolvent bakalarskeho studia na Fakultě Informačních Technologií VUT v Brně. Mám zálibu v programování (nečekaně), nových technologiích a ve zvedání těžkých koleček v posilovně 😉. V současné době bych chtěl získat praxi v oboru a zlepšovat se v tom co mě baví.
 
 ### 🎓 Vzdělání
 
-- **Bakalářské studium**: Informační technologie, VUT v Brně (2022 - současnost)
+- **Bakalářské studium**: Informační technologie, VUT v Brně 2022 - 2025
 - **Střední škola**: Informační technologie, Střední Škola Průmyslová, Technická a Automobilní Jihlava (2018 - 2022)
 
 ### 💼 Zkušenosti
