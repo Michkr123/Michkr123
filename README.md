@@ -79,8 +79,6 @@ Interpreter written in PHP that reads instructions from an XML file and executes
 Implements instruction handling, stack operations, labels, frames, and variables.  
 **Tech:** PHP 8.3, OOP  
 
----
-
 ### 🧑‍🤝‍🧑 Team Projects
 
 [**Event Planner App**](https://github.com/Michkr123/Event-Planner-App)  
@@ -95,3 +93,9 @@ Simplified school information system managing students, courses, and activities.
 2D simulation of autonomous robots with obstacles, trash generation, and player-controlled unit.  
 **Tech:** C++  
 
+---
+
+## 📈 GitHub Stats
+
+![Kryštof's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michkr123&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michkr123&layout=compact&theme=github_dark)
