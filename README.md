@@ -44,8 +44,8 @@ Outside of coding, I enjoy spending time in the gym 💪 and I’ve also started
 
 [**ICS MUNI Screening**](https://github.com/Michkr123/MUNI-screening)  
 Python scraper for GitHub issues + React/TypeScript visualizer.  
-- Data collected with Python and served via Express.js REST API.  
-- Frontend built with React (Vite + TypeScript).  
+Data collected with Python and served via Express.js REST API.  
+Frontend built with React (Vite + TypeScript).  
 **Tech:** Python, Express.js, React, TypeScript  
 
 [**ESP32 Pong Game**](https://github.com/Michkr123/ESP32-Pong-Game)  
