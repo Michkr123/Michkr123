@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **beginner full-stack developer** with a Bachelor’s degree in Computer Science from the Faculty of Information Technology at Brno University of Technology (VUT FIT).  
+I'm a **beginner full-stack developer** with a Bachelor’s degree in Computer Science from the Faculty of Information Technology at Brno University of Technology (BUT FIT).  
 Currently, I’m pursuing my **Master’s degree** at the same faculty.  
 
 I’m passionate about programming, learning new technologies, and always looking for opportunities to gain real-world experience and grow as a developer.  
