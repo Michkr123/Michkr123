@@ -95,4 +95,6 @@ Simplified school information system managing students, courses, and activities.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michkr123&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michkr123&layout=compact&theme=github_dark" alt="Top Langs" />
+</p>
