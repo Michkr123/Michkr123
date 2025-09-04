@@ -1,63 +1,97 @@
-# Ahoj, jsem Kryštof, vítej na mém githubu 👋
+# Hi, I'm Kryštof 👋
 
-## O mně
+## About Me
 
-Absolvent bakalarskeho studia na Fakultě Informačních Technologií VUT v Brně. Mám zálibu v programování (nečekaně), nových technologiích a ve zvedání těžkých koleček v posilovně 😉. V současné době bych chtěl získat praxi v oboru a zlepšovat se v tom co mě baví.
+I'm a **beginner full-stack developer** with a Bachelor’s degree in Computer Science from the Faculty of Information Technology at Brno University of Technology (VUT FIT).  
+Currently, I’m pursuing my **Master’s degree** at the same faculty.  
 
-### 🎓 Vzdělání
+I’m passionate about programming, learning new technologies, and always looking for opportunities to gain real-world experience and grow as a developer.  
+Outside of coding, I enjoy spending time in the gym 💪 and I’ve also started running regularly 🏃.
 
-- **Bakalářské studium**: Informační technologie, VUT v Brně 2022 - 2025
-- **Střední škola**: Informační technologie, Střední Škola Průmyslová, Technická a Automobilní Jihlava (2018 - 2022)
+### 🎓 Education
+- **Master’s (in progress)**: Computer Science, Brno University of Technology – Faculty of Information Technology  
+- **Bachelor’s**: Computer Science, Brno University of Technology – Faculty of Information Technology (2022 – 2025)  
+- **High School**: Information Technology, Secondary Technical School of Jihlava (2018 – 2022)
 
-### 💼 Zkušenosti
+### 💼 Experience
 
-- Zatím nemám žádné zkušenosti v oboru 
-- Jsem fast learner a nemám problém se naučit novým dovednostem, jazykům či technologiím
-- Rád bych nabral zkušenosti v oboru a nějaké know-how
-- Hledám práci na zkrácený úvazek s ohledem k probíhajícímu studiu
+- Gained **solid hands-on experience** through various university projects, ranging from low-level programming (C, VHDL) to web development (React, TypeScript, PHP) and software engineering in larger teams.  
+- Currently working as an **intern** in a hybrid role of **Data Analyst** and **Developer**, focusing on SQL, Reporting Services, Power BI, and automation tools.  
+- Strong ability to learn quickly and adapt to new technologies. 
 
-### 🛠️ Dovednosti
+### 🛠️ Skills
 
-- **Programovací a jiné jazyky**: C, JavaScript, Typescipt, C++, C#, Python, PHP, HTML, CSS, VHDL
-- **Technologie a nástroje**: Git, GitHub, VS Code, React, Tailwind
-- **Databáze**: MySQL, SQLite
-- **Operační systémy**: Linux, Windows
+**Core (Full-Stack Development)**  
+- **Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+- **Backend**: Node.js, Express.js, PHP, basic .NET  
+- **Databases**: MySQL, SQLite, SQL  
+- **Tools & Platforms**: Git, GitHub, GitLab, Docker, Linux  
 
-## Ukázky mých projektů 
-(ostatní projekty vypracované v rámci studia lze nalézt v repozitáři [VUT](https://github.com/Michkr123/VUT))
+**Data & Analytics**  
+- SQL (advanced queries, optimization)  
+- Power BI  
+- SQL Server Reporting Services (SSRS)  
+- SQL Server Integration Services (SSIS)  
 
-### 🧍‍♂️ Samostatné projekty
+**Additional (Academic Experience)**  
+- Languages: C, C++, C#, Python  
 
-[**ICS MUNI screening (Python scraper for Github issues + React/Typescript visualiser)**](https://github.com/Michkr123/MUNI-screening#)
-   - Popis: Projekt slouží ke stažení GitHub issues a jejich vizualizaci. Issues jsou nejprve získány pomocí Python skriptu a uloženy do statického JSON souboru. Backendová část je tvořena jednoduchým REST API v Express.js, které poskytuje data frontendové React aplikaci. Frontend je postavený jako single-page aplikace (SPA) ve Vite a Reactu.
-   - Jazyky a technologie: Vite, React, JavaScript, TypeScript (frontend), Python (pro získání dat), Express.js (REST API backend)
+---
 
-[**Aplikace ovládaná dvojicí rotačních enkodérů na ESP32 - hra Pong**](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/5.semestr/IMP) 
-   - Popis: Hra pong ovládaná dvojicí enkodérů na mikrořadiči ESP32 využívající technologie přerušení, real-time operačního systém FreeRTOS a přístup ke sdílenému zdroji pomocí semaforu.
-   - Jazyk: C
+## 📂 Projects
 
-[**Klient pro chatvací server**](https://github.com/Michkr123/IPK/tree/7294367d03752d0f9853228cd36f09457ae5cc0e/IPK_project2)
-   - Popis: Tento projekt implementuje klienta pro chatovací server, který používá protokol IPK25CHAT. Klient podporuje dvě varianty komunikace - pomocí protokolů TCP a UDP.
-   - Jazyk: C++
+### 🧍‍♂️ Solo Projects
 
-[**Procesor s jednoduchou instrukční sadou**](https://github.com/Michkr123/VUT/tree/4368f73f0d323704da991ebc2031cae958bf21ec/3.semestr/INP/INP_1)
-   - Popis: Procesor implementovaný v jazyce VHDL, který je schopen vykonávat program napsaný v rozšířené verzi jazyka BrainFuck.
-   - Jazyk: VHDL
+[**ICS MUNI Screening**](https://github.com/Michkr123/MUNI-screening)  
+Python scraper for GitHub issues + React/TypeScript visualizer.  
+- Data collected with Python and served via Express.js REST API.  
+- Frontend built with React (Vite + TypeScript).  
+**Tech:** Python, Express.js, React, TypeScript  
 
-[**Parser**](https://github.com/Michkr123/VUT/tree/a6524a7d0ac3b52d0882390771305d7f068de079/4.semestr/IPP/parser%20-%20python)
-   - Popis: Parser pro standardní vstup v jazyce IPP-code24, který provádí lexikální a syntaktickou analýzu kódu a generuje XML reprezentaci programu na standardní výstup.
-   - Jazyk: Python
+[**ESP32 Pong Game**](https://github.com/Michkr123/ESP32-Pong-Game)  
+Pong game controlled by two rotary encoders on ESP32, using FreeRTOS and semaphores for real-time concurrency.  
+**Tech:** C, FreeRTOS  
 
-### 🧑‍🤝‍🧑 Týmové projekty
+[**Chat Client (IPK25CHAT protocol)**](https://github.com/Michkr123/Client-for-a-chat-server)  
+Client implementation supporting both TCP and UDP communication.  
+**Tech:** C++  
 
-[**Školní Informační systém**](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/4.semestr/ICS)
-   - Popis: Zjednodušený školní informační systém, který spravuje žáky, předměty a aktivity. 
-   - Jazyk: C#
+[**Simple 8-bit CPU (Brainfuck Interpreter)**](https://github.com/Michkr123/Simple-8-bit-CPU-Brainfuck-Interpreter)  
+Custom CPU written in VHDL capable of executing an extended version of Brainfuck.  
+**Tech:** VHDL  
 
-[**2D simulace autonomních robotů**](https://github.com/Michkr123/VUT/tree/ad017928b45aee3af26506032be2d81040621a0c/4.semestr/ICP)
-   - Popis: Simulace autonomních robotů s možností přidávání robotů, překážek či generování smetí.
-   - Jazyk: C++
+[**PCAP to NetFlow v5 Exporter**](https://github.com/Michkr123/PCAP-NetFlow-Exporter)  
+Program `p2nprobe` that extracts flow information from PCAP files and exports it via UDP in NetFlow v5 format.  
+Implements packet parsing, flow aggregation, timeout handling, and NetFlow message generation.  
+**Tech:** C++, libpcap, Networking  
 
-[**Akce pro lidi - webová a mobilní aplikace**](https://github.com/Michkr123/VUT/tree/0e9ac2ba00b7f520af2d0acee400d71089741d49/5.semestr/ITU)
-   - Popis: Webová a mobilní aplikace umožňující vytváření a správu akcí, filtrování akcí, přihlašování/odhlašování účasti na akcích a zobrazování nadcházejících akcí.
-   - Jazyk: Typescript
+[**TCP/UDP Port Scanner**](https://github.com/Michkr123/TCP-UDP-Port-Scanner)  
+Network scanner capable of detecting open/closed/filtered ports using TCP SYN and UDP scans.  
+Supports both IPv4 and IPv6, raw sockets, custom timeouts, and interface listing.  
+**Tech:** C, Networking (sockets, raw packets)  
+
+[**Python Code Parser & XML Generator**](https://github.com/Michkr123/Python-Code-Parser-and-XML-Generator)  
+Parser for IPPcode24 language performing lexical & syntax analysis and generating XML representation.  
+**Tech:** Python  
+
+[**XML Instruction Interpreter**](https://github.com/Michkr123/XML-Instruction-Interpreter)  
+Interpreter written in PHP that reads instructions from an XML file and executes them step by step.  
+Implements instruction handling, stack operations, labels, frames, and variables.  
+**Tech:** PHP 8.3, OOP  
+
+---
+
+### 🧑‍🤝‍🧑 Team Projects
+
+[**Event Planner App**](https://github.com/Michkr123/Event-Planner-App)  
+Web & mobile app for creating and managing events, registering participants, and adding reviews.  
+**Tech:** TypeScript, React, React Native, Node.js  
+
+[**Information System of our Faculty**](https://github.com/Michkr123/Information-System-of-our-faculty)  
+Simplified school information system managing students, courses, and activities.  
+**Tech:** C#  
+
+[**Autonomous Robots 2D Simulation**](https://github.com/Michkr123/Autonomous-Robots-2D-Sim)  
+2D simulation of autonomous robots with obstacles, trash generation, and player-controlled unit.  
+**Tech:** C++  
+
