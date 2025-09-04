@@ -8,18 +8,18 @@ Currently, I’m pursuing my **Master’s degree** at the same faculty.
 I’m passionate about programming, learning new technologies, and always looking for opportunities to gain real-world experience and grow as a developer.  
 Outside of coding, I enjoy spending time in the gym 💪 and I’ve also started running regularly 🏃.
 
-### 🎓 Education
+### Education
 - **Master’s (in progress)**: Computer Science, Brno University of Technology – Faculty of Information Technology  
 - **Bachelor’s**: Computer Science, Brno University of Technology – Faculty of Information Technology (2022 – 2025)  
 - **High School**: Information Technology, Secondary Technical School of Jihlava (2018 – 2022)
 
-### 💼 Experience
+### Experience
 
 - Gained **solid hands-on experience** through various university projects, ranging from low-level programming (C, VHDL) to web development (React, TypeScript, PHP) and software engineering in larger teams.  
 - Currently working as an **intern** in a hybrid role of **Data Analyst** and **Developer**, focusing on SQL, Reporting Services, Power BI, and automation tools.  
 - Strong ability to learn quickly and adapt to new technologies. 
 
-### 🛠️ Skills
+### Skills
 
 **Core (Full-Stack Development)**  
 - **Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind CSS  
@@ -38,7 +38,7 @@ Outside of coding, I enjoy spending time in the gym 💪 and I’ve also started
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 🧍‍♂️ Solo Projects
 
@@ -95,7 +95,7 @@ Simplified school information system managing students, courses, and activities.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Kryštof's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michkr123&show_icons=true&theme=github_dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michkr123&layout=compact&theme=github_dark)
